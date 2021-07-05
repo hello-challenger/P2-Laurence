@@ -3,4 +3,6 @@ Devellopement
 1 creer architecture du site > constuction en pyramydal
 
 a / installer les balise semantiaue sur le fichier html
-b /
+b / architecture avec grid
+c / insatall tes items avec flex ou grid
+b / placer tes contenus
