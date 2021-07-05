@@ -1,0 +1,6 @@
+Devellopement
+
+1 creer architecture du site > constuction en pyramydal
+
+a / installer les balise semantiaue sur le fichier html
+b /
